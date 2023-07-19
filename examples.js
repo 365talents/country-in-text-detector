@@ -33,6 +33,15 @@ var mutations = countryDetector.detect("FR: J'ai vécu en Italie. EN: I lived in
 ]
 */
 
+// handles Roumanie in French
+var romania = countryDetector.detect("FR: J'ai vécu en Roumanie.");
+/*
+[
+	{ iso3166: 'RO', name: 'Romania', type: 'country', matches: [ 'Roumanie'] }
+]
+*/
+console.log(romania);
+
 // handles special characters and emojis
 var special = countryDetector.detect("Adoro❤️ o 🇧🇷Rio~de~Janeiro💃🏼 !");
 /*

@@ -42,6 +42,15 @@ var romania = countryDetector.detect("FR: J'ai vécu en Roumanie.");
 */
 console.log(romania);
 
+// handles Roumanie in French
+var slovakia = countryDetector.detect("FR: J'ai vécu en Slovaquie.");
+/*
+[
+	{ iso3166: 'SK', name: 'Slovakia', type: 'country', matches: [ 'Slovaquie'] }
+]
+*/
+console.log(slovakia);
+
 // handles special characters and emojis
 var special = countryDetector.detect("Adoro❤️ o 🇧🇷Rio~de~Janeiro💃🏼 !");
 /*

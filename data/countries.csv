@@ -115,7 +115,7 @@ KH;Cambodia;Cambodia, Kampuchea, Kambodža, Cambodge
 KI;Kiribati;Kiribati
 KM;Comoros;Comor[oea]s
 KN;Saint Kitts and Nevis;Saint Kitts [&] Nevis, Saint-Christophe-et-Niévès
-KP;North Korea;(North|Seven[i]) Korea, Corée du Nord
+KP;North Korea;(North|Severn[í]) Korea, Corée du Nord
 KR;South Korea;(South|Jižní) Korea, Korea, Corée du Sud
 KW;Kuwait;Kuwait, Koweït
 KY;Cayman Islands;Cayman Islands, Kajmansk[é] Ostrovy, Îles Caïmans
@@ -166,7 +166,7 @@ NU;Niue;Niu[e]
 NZ;New Zealand;New Zealand, Zealand, Nov[ý] Z[é]land, Z[é]land, Nouvelle-Zélande
 OM;Oman;Om[a]n, ʻ?Um[ā]n
 PA;Panama;Panam[a]
-PE;Peru;Per[u], Piruw; Pérou
+PE;Peru;Per[u], Piruw, Pérou
 PF;French Polynesia;French Polynesia, Polyn[é]si[ae], Polynésie française
 PG;Papua New Guinea;Papua New Guinea, New Guinea, Papua Niu gini, Papouasie-Nouvelle-Guinée
 PH;Philippines;Philippines, Filip[í]ny, [PF]ilipinas
@@ -191,7 +191,7 @@ SC;Seychelles;Seychelles
 SD;Sudan;S[u]d[a]n
 SE;Sweden;S(ch)?weden, Sverige, [Š]v[é]dsko, Suecia, S[u][eè]de
 SG;Singapore;Singapore, Singap[u]r, Singapour
-SH;Saint Helena;(St|Saint) H?elena, Saint Hélène
+SH;Saint Helena;(St|Saint) H?elena, Sainte-Hélène
 SI;Slovenia;E?Slov[e]nij?[ae], Slovénie
 SJ;Svalbard and Jan Mayen;Svalbard [&] Jan Mayen
 SK;Slovakia;Slovak Republic, Slovakia, Slovensk[á] Republika, Slovensko, Slovaquie
@@ -243,7 +243,6 @@ ZM;Zambia;Zambi[ae]
 ZW;Zimbabwe;[ZS]imbab[wu][eé]
 ME;Montenegro;Mont[eé]n[eé]gro, Crna Gora, Црна Гора, [Č]ern[á] Hora
 XK;Kosovo;Kosov[oae], Косово
-RS;Serbia;Serbi[ae], Srbija, Србија, Srbsko
 GB-WLS;Wales;Wales
 GB-SCT;Scotland;Scotland, Skotsko, [EÉ]cosse
 GB-ENG;England;England, Inglaterra, Anglie, Angleterre
